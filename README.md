@@ -6,28 +6,28 @@
 >## 하드웨어
 ****
 ###### 빌딩 모형
-![모형 앞](/readmeFile/a.png) ![모형 뒤](/readmeFile/스마트 빌딩 GUI 1.png) 
+![모형 앞](/readmeFile/SmartBuilding_Front.png) ![모형 뒤](/readmeFile/SmartBuilding_Back.png) 
 
 ###### 회로도
-![회로도](/readmeFile/ThisProgramViewMenuBar.PNG)
+![회로도](/readmeFile/SmartBuilding_Circuit.png)
 
 ****
 >## Atmega128 & RaspberryPi I2C 통신
 ****
 ###### 센싱
-![센싱](/readmeFile/MainView.PNG) 
+![센싱](/readmeFile/SmartBuilding_i2c _Sensing.png) 
 
 ###### 컨트롤
-![컨트롤](/readmeFile/ThisProgramViewMenuBar.PNG)
+![컨트롤](/readmeFile/SmartBuilding_i2c_Control.png)
 
 ###### MQTT Server
-![MQTT Server](/readmeFile/ThisProgramViewMenuBar.PNG)
+![MQTT Server](/readmeFile/SmartBuilding_MQTT_Server.png)
 
 ****
 >## C# WPF GUI
 ****
-![센싱](/readmeFile/MainView.PNG) ![센싱](/readmeFile/MainView.PNG) 
-![센싱](/readmeFile/MainView.PNG) ![센싱](/readmeFile/MainView.PNG) 
+![센싱](/readmeFile/SmartBuilding_GUI 1.png) ![센싱](/readmeFile/SmartBuilding_GUI 2.png) 
+![센싱](/readmeFile/SmartBuilding_GUI 3.png) ![센싱](/readmeFile/SmartBuilding_GUI 4.png) 
 
 
 
