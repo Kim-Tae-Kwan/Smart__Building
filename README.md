@@ -23,6 +23,16 @@
 ###### MQTT Server
 ![MQTT Server](/readmeFile/ThisProgramViewMenuBar.PNG)
 
+****
+>## C# WPF GUI
+****
+![센싱](/readmeFile/MainView.PNG) ![센싱](/readmeFile/MainView.PNG) 
+![센싱](/readmeFile/MainView.PNG) ![센싱](/readmeFile/MainView.PNG) 
+
+
+
+
+
 
 
 
