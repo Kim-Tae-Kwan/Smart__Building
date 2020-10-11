@@ -4,10 +4,10 @@
 <!--
 ****
 -->
->## 메인뷰 동작
+>## 하드웨어
 ****
 ###### 메인 뷰 화면
-![메인 뷰](/readmeFile/MainView.PNG)
+![메인 뷰](/readmeFile/MainView.PNG) ![메인 뷰](/readmeFile/MainView.PNG)
 ###### 메뉴 바의 도움말-정보를 통해 AssemblyInfo의 정보를 얻을 수 있다.
 ![메인 뷰 메뉴 바](/readmeFile/ThisProgramViewMenuBar.PNG)
 ###### Dialog로 화면 출력
