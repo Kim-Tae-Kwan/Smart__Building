@@ -7,7 +7,7 @@
 ****
 
 ### 1.하드웨어 구성도
-![모형 앞](/readmeFile/SmartBuilding_.png)
+![모형 앞](/readmeFile/SmartBuilding_diagram.png)
 
 ### 2.빌딩 모형
 ![모형 앞](/readmeFile/SmartBuilding_Front.png) ![모형 뒤](/readmeFile/SmartBuilding_Back.png) 
