@@ -15,7 +15,7 @@
 >## Atmega128 & RaspberryPi I2C 통신
 ****
 ###### 센싱
-![센싱](/readmeFile/SmartBuilding_i2c _Sensing.png) 
+![센싱](/readmeFile/SmartBuilding_i2c_Sensing.png) 
 
 ###### 컨트롤
 ![컨트롤](/readmeFile/SmartBuilding_i2c_Control.png)
@@ -26,8 +26,10 @@
 ****
 >## C# WPF GUI
 ****
-![센싱](/readmeFile/SmartBuilding_GUI 1.png) ![센싱](/readmeFile/SmartBuilding_GUI 2.png) 
-![센싱](/readmeFile/SmartBuilding_GUI 3.png) ![센싱](/readmeFile/SmartBuilding_GUI 4.png) 
+![센싱](/readmeFile/SmartBuilding_GUI 1.png) 
+![센싱](/readmeFile/SmartBuilding_GUI 2.png) 
+![센싱](/readmeFile/SmartBuilding_GUI 3.png) 
+![센싱](/readmeFile/SmartBuilding_GUI 4.png) 
 
 
 
