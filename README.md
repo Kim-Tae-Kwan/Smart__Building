@@ -5,22 +5,22 @@
 ****
 >## 하드웨어
 ****
-### 빌딩 모형
+### 1.빌딩 모형
 ![모형 앞](/readmeFile/SmartBuilding_Front.png) ![모형 뒤](/readmeFile/SmartBuilding_Back.png) 
 
-### 회로도
+### 2.회로도
 ![회로도](/readmeFile/SmartBuilding_Circuit.png)
 
 ****
 >## Atmega128 & RaspberryPi I2C 통신
 ****
-### 센싱
+### 1.센싱
 ![센싱](/readmeFile/SmartBuilding_i2c_Sensing.png) 
 
-### 컨트롤
+### 2.컨트롤
 ![컨트롤](/readmeFile/SmartBuilding_i2c_Control.png)
 
-### MQTT Server
+### 3.MQTT Server
 ![MQTT Server](/readmeFile/SmartBuilding_MQTT_Server.png)
 
 ****
