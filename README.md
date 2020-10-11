@@ -5,10 +5,14 @@
 ****
 >## 하드웨어
 ****
-### 1.빌딩 모형
+
+### 1.하드웨어 구성도
+![모형 앞](/readmeFile/SmartBuilding_.png)
+
+### 2.빌딩 모형
 ![모형 앞](/readmeFile/SmartBuilding_Front.png) ![모형 뒤](/readmeFile/SmartBuilding_Back.png) 
 
-### 2.회로도
+### 3.회로도
 ![회로도](/readmeFile/SmartBuilding_Circuit.png)
 
 ****
