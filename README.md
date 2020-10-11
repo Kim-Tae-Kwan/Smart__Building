@@ -1,6 +1,6 @@
-# Smart__Building
-# WpfMonitoringProgram
-Arduino Photo Interrupt 센서 값 수집 프로그램
+# Smart Building System
+
+빌딩 자동화 시스템, 모니터링 시스템으로 관제할 수 있는 프로그램
 > 1. LiveChart를 통해 Value 출력한다.
 > 2. Simulation(난수 생성) 값을 출력으로 설정
 > 3. Arduino로 부터 Value 입력 후 출력으로 설정
