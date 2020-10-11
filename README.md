@@ -6,7 +6,7 @@
 >## 하드웨어
 ****
 ###### 빌딩 모형
-![모형 앞](/readmeFile/a.png) ![모형 뒤](/readmeFile/MainView.PNG) 
+![모형 앞](/readmeFile/a.png) ![모형 뒤](/readmeFile/스마트 빌딩 GUI 1.png) 
 
 ###### 회로도
 ![회로도](/readmeFile/ThisProgramViewMenuBar.PNG)
