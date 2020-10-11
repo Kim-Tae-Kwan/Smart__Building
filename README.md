@@ -1,20 +1,41 @@
 # Smart Building System
 
 빌딩 자동화 시스템, 모니터링 시스템으로 관제할 수 있는 프로그램
-<!--
+
 ****
--->
 >## 하드웨어
 ****
-###### 메인 뷰 화면
-![메인 뷰](/readmeFile/MainView.PNG) ![메인 뷰](/readmeFile/MainView.PNG)
-###### 메뉴 바의 도움말-정보를 통해 AssemblyInfo의 정보를 얻을 수 있다.
-![메인 뷰 메뉴 바](/readmeFile/ThisProgramViewMenuBar.PNG)
-###### Dialog로 화면 출력
-![프로그램 뷰](/readmeFile/ThisProgramView.PNG)
+###### 빌딩 모형
+![모형 앞](/readmeFile/MainView.PNG) ![모형 뒤](/readmeFile/MainView.PNG) 
+
+###### 회로도
+![회로도](/readmeFile/ThisProgramViewMenuBar.PNG)
+
 ****
->#시뮬레이션 동작
+>## Atmega128 & RaspberryPi I2C 통신
 ****
+###### 센싱
+![센싱](/readmeFile/MainView.PNG) 
+
+###### 컨트롤
+![컨트롤](/readmeFile/ThisProgramViewMenuBar.PNG)
+
+###### MQTT Server
+![MQTT Server](/readmeFile/ThisProgramViewMenuBar.PNG)
+
+
+
+
+
+
+<!--
+
+
+
+****
+>## Atmega128 & RaspberryPi I2C 통신
+****
+
 ###### 난수를 사용하여 값을 전송하여 화면에 출력하는 동작
 ###### 시뮬레이션-시작 또는 화면 하단의 Start 버튼을 통해 시뮬레이션 동작 수행 가능
 ![시뮬레이션 메뉴 바](/readmeFile/SimulationMenuBar.PNG)
@@ -39,3 +60,4 @@
 ****
 ###### 데이터베이스에 시뮬레이션 결과 값을 저장
 ![데이터베이스저장](/readmeFile/DBDATA.PNG)
+-->
