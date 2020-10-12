@@ -36,7 +36,7 @@
 #define Water_Pin 0x00 //PF0
 #define Photo_Pin 0x01 //PF1
 #define Fire_Pin  0x02 //PF2
-//===========================================	
+//===========================================
 
 #define True 1
 #define False 0
@@ -135,16 +135,15 @@ ISR(TWI_vect) //I2C 인터럽트
 			
 		}
 		
-		// write_byte_data(int addr,char cmd,char val) 명령의 두번째 Data를 정상으로 수신한 상태.
-		//if(I2C_State == 2)
-		//{
-		//// write_byte_data(int addr,char cmd,char val) 명령의 두번째 Data로,
-		//// 이 Data는 Input buffer에 저장 한다.
-		//if(I2C_Cmd == 0xa0)
-		//{
-		//I2C_In_Data = TWDR;
-		//}
-		//}
+		if(I2C_State == 2)
+		{
+			// write_byte_data(int addr,char cmd,char val) 명령의 두번째 Data로,
+			// 이 Data는 Input buffer에 저장 한다.
+			if(I2C_Cmd == 0xa0)
+			{
+				I2C_In_Data = TWDR;
+			}
+		}
 		
 		break;
 
@@ -278,7 +277,7 @@ void DHT22_GetData(float *temperature, float *humidity,uint8_t DHT22_INPUTPIN)
 	
 	
 	//check start condition 1
-	if((DHT22_PIN & (1<<DHT22_INPUTPIN))) 
+	if((DHT22_PIN & (1<<DHT22_INPUTPIN)))
 	{ //DHT22 PIN == High 이면
 		if(DHT22_INPUTPIN==Floor1)
 		{
