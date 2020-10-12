@@ -7,7 +7,7 @@
 > 3. C# 모니터링 시스템은 MQTT 프로토콜로 수신한 데이터들을 Visualization 하며 컨트롤 명령어를 신합니다.
 
 ## 시연영상
-![모형 앞](/readmeFile/SmartBuilding_.png)
+![모형 앞](/readmeFile/SmartBuilding_QRCode.png)
 
 ## 하드웨어
 ### 1.하드웨어 구성도
