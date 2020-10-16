@@ -16,14 +16,14 @@
 ![회로도](/readmeFile/SmartBuilding_Hardware2.PNG)
 
 ## 소프트웨어 구성도
-![Software](/readmeFile/SmartBuilding_Software.PNG)
+![Software](/readmeFile/SmartBuilding_Software.png)
 
 ## Atmega128 & RaspberryPi I2C 통신
 ![MQTT Server](/readmeFile/SmartBuilding_I2C.PNG)
 
 ## C# WPF GUI
 
-![센싱](/readmeFile/SmartBuilding_WPF.PNG) 
+![센싱](/readmeFile/SmartBuilding_Wpf.PNG) 
 
 
 
